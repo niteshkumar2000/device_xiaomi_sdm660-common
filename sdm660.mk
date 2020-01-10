@@ -152,7 +152,7 @@ PRODUCT_BOOT_JARS += \
 # Camera
 PRODUCT_PACKAGES += \
     libMiWatermark_shim \
-    Snap
+    MiuiCamera
 
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl:32 \
