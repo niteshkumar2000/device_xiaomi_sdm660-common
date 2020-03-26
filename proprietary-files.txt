@@ -623,7 +623,7 @@ vendor/etc/init/port-bridge.rc|e52d61a0de5e8a3b21bfbfca929e862422645377
 
 # Radio - IMS - from LA.UM.7.2.r1-07600-sdm660.0
 -app/imssettings/imssettings.apk|4160315ea72de783650381278179309d6320343b
--priv-app/ims/ims.apk|fea1403a111d67f28e989b8026adb4ed8dc87a5e
+-priv-app/ims/ims.apk|fae92f7c88f548e4366efe8eabb58884a6bf3273
 etc/permissions/com.qualcomm.qti.imscmservice.xml|db25ef24f1937366d58a53b4f4b8923bc9e98d2d
 etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml|8d25bd7b79baf266950eb484c1a28817f891aec2
 etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml|998076243537f61f3683a3c083f7b27510617368
